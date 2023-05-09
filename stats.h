@@ -24,16 +24,20 @@
 /* Add Your Declarations and Function Comments here */ 
 
 /**
- * @brief <Add Brief Description of Function Here>
+ * @brief Header for coursera module 1 
  *
  * <Add Extended Description Here>
  *
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
+ * @param i Loop incrementer 
+ * @param j Loop incrementer
+ * @param len Another pararmeter for array size
+ * @param sum Sum used to find mean
+ * @param mean Mean
+ * @param median Median
+ * @param temp Temporary variable
  *
- * @return <Add Return Informaiton here>
+ *
+ * @return returns all individual function values
  */
 
 
