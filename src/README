@@ -1,0 +1,10 @@
+Command list
+
+make main.i PLATFORM=HOST
+make main.asm PLATFORM=HOST
+make main.o PLATFORM=HOST
+make compile-all PLATFORM=HOST
+make build PLATFORM=HOST
+make clean
+
+
